@@ -1,10 +1,8 @@
 # Projeto Prático
 
-Compartilhe seu progresso no Instagram **@ovictorbarros**
 
-26 a 28 de Setembro de 2022 às 20h
 
-# 🤔 Etapa 1 - Entendendo o Problema
+#  Etapa 1 - Entendendo o Problema
 
 ---
 
@@ -20,7 +18,7 @@ Compartilhe seu progresso no Instagram **@ovictorbarros**
     [Google Colaboratory](https://colab.research.google.com/drive/1mZnWqkTU7ZtHfcXTVj9qgOfyR_jDVgdt?usp=sharing)
     
 
-# 🧩 Etapa 2 - Coletando os Dados
+#  Etapa 2 - Coletando os Dados
 
 ---
 
@@ -41,7 +39,7 @@ Compartilhe seu progresso no Instagram **@ovictorbarros**
     [Loading Google Sheets](https://docs.google.com/spreadsheets/d/1ivNOCdU_qmQdiNOxQABHhYpVSNEsQ55K/edit?usp=sharing&ouid=104413768616625233151&rtpof=true&sd=true)
     
 
-# 🧠 Etapa 3 - Análise Exploratória dos Dados
+#  Etapa 3 - Análise Exploratória dos Dados
 
 ---
 
